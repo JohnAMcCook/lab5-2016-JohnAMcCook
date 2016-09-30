@@ -39,8 +39,8 @@ public class BouncyBall extends JPanel
 		int height = getHeight();
 
 		//clear canvas
-		g.setColor(getBackground());
-		g.fillRect(0, 0, width, height);
+		//g.setColor(getBackground());
+		//g.fillRect(0, 0, width, height);
 
 		int xMin = 0+RADIUS;
 		int yMin = 0+RADIUS;
